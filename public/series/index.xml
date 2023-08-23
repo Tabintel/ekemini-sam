@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Ekemini Samuel</title>
+    <link>http://www.example.com/series/</link>
+    <description>Recent content in Series on Ekemini Samuel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Journey</title>
+      <link>http://www.example.com/series/tech-journey/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/series/tech-journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>http://www.example.com/series/theme-demo/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/series/theme-demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
