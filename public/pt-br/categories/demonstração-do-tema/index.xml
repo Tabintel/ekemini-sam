@@ -63,14 +63,5 @@ Hello Hello World! Goodbye Goodbye Everybody! Alinhamento à direita Link para o
 flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;Bob: Hi Bob Bob-&gt;&gt;Alice: Hi Alice Entro mais exemplos na página do Mermaid-JS.</description>
     </item>
     
-    <item>
-      <title>Suporte a Emojis</title>
-      <link>http://www.example.com/pt-br/posts/emoji-support/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/pt-br/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
