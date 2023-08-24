@@ -3,4 +3,4 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, @realEkemini.
+Follow me, [@realEkemini.](https://twitter.com/realekemini/)
