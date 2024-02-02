@@ -6,9 +6,9 @@ aliases = ["about-me", "about-ekemini", "contact"]
 author = "Ekemini Samuel"
 +++
 
-Hola, 👋🏾 Ekemini Samuel is my name. I create technical articles - API Documentaion, White Papers and other forms of Technical Content.
+Hola, 👋🏾 Ekemini Samuel is my name. I identify market needs, build products that solve problems one day at a time and create technical articles - API Documentaion, White Papers and other forms of Technical Content.
 
-On the path to becoming a Go developer, building efficient services. I love music, and will go into music production. Playing drums is my go-to vibe. 
+On the path to becoming a Product Manager, building efficient services. I love music, and music production. Playing drums is my go-to vibe. 
 
 * Code
 * Words
