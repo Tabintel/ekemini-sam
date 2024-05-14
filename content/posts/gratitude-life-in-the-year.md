@@ -69,7 +69,7 @@ the life i want
 - Monday to Saturday - go to gym, eat, drive home, work at home in my WFH setup, vibe and chill, grow.
 
 what i need to live the life
-- steady sources of $1,000+ income.
+- steady sources of $5,000+ income.
 
 the question now is how do i achieve this? 
 
