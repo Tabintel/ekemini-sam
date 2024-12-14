@@ -1,3 +1,21 @@
++++
+authors = ["Ekemini Samuel"]
+title = "reset"
+date = "2024-09-20"
+description = "living a life worth living, building a legacy"
+tags = [
+    "ekemini",
+    "work-in-progress",
+    "tech",
+]
+categories = [
+    "writings",
+    "tech",
+    "building"
+]
+series = ["EkeminiOS"]
++++
+
 There comes a point in everyone’s journey where you hit a wall, and it's not just a wall made of brick or stone—it’s a wall made of everything you’ve been carrying for months, maybe years. A buildup of thoughts, emotions, projects, and expectations, slowly weighing down on you until it’s no longer sustainable. And that’s when you realize: it’s time for a reset.
 
 I’ve been there. In fact, not too long ago, I found myself in that space. The goals I’d set for myself were big—huge, actually—things like building Envitab, diving deep into product management, and even working towards a future relocation. I’ve had to balance multiple roles, from technical writing to software development, to leading projects—all of which I love. But somewhere in between, I had to pause and ask myself if I was moving in the right direction or just moving, period.
