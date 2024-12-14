@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="ekeminios-container">
+  <div class="brand-intro">
+    <h1>EkeminiOS</h1>
+    <p class="vision-statement">EkeminiOS is more than my personal brand — it's my vision, my legacy, and a hub for everything I create.</p>
+  </div>
+
+  <div class="subscription-container">
+    <h2>Subscribe to receive email updates from EkeminiOS</h2>
+    <form class="subscription-form" action="/api/subscribe" method="POST">
+      <div class="form-group animate-on-scroll">
+        <input type="text" name="name" placeholder="Enter your name" required />
+      </div>
+      
+      <div class="form-group animate-on-scroll">
+        <input type="email" name="email" placeholder="Enter your email address" required />
+      </div>
+      
+      <div class="form-group animate-on-scroll">
+        <input type="text" name="funFact" placeholder="Share something fun about yourself" />
+      </div>
+      
+      <button type="submit" class="animate-on-scroll">Subscribe</button>
+    </form>
+  </div>
+</section>
+{{ end }}
