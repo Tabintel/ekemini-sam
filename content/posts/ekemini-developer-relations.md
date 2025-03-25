@@ -1,6 +1,7 @@
 +++
 authors = ["Ekemini Samuel"]
 title = "DevRel in Future Technologies: CUDOS Intercloud"
+date = "2024-03-25"
 description = "Understanding Developer Relations, its importance, and how it works."
 tags = [
     "Developer Relations",
@@ -52,7 +53,7 @@ CUDOS Intercloud is a pioneering solution in AI, blockchain, and decentralized c
    - Build relationships with other DevRel professionals.
    - Expand content distribution through collaborations and guest blogging.
 
-## Conclusion
+
 Developer Relations is a powerful force in the tech industry, driving innovation, fostering communities, and enhancing product adoption. My journey into DevRel aligns with my passion for education, writing, and engaging with developers.
 
 By committing to DevRel, I am not only building my career but also contributing to a global movement that empowers developers to do their best work.
