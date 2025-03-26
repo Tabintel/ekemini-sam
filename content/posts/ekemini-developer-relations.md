@@ -16,7 +16,7 @@ categories = [
     "DevRel"
 ]
 series = ["Developer Advocacy"]
-featuredImage = "media-ps/EkeminiSamuel.jpeg"
+featuredImage = "media/EkeminiSamuel.jpeg"
 +++
 
 
