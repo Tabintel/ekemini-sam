@@ -3,6 +3,8 @@ authors = ["Ekemini Samuel"]
 title = "DevRel in Future Technologies: CUDOS Intercloud"
 date = "2025-03-25"
 description = "Understanding Developer Relations, its importance, and how it works."
+featuredImage = "/images/media-posts/EkeminiSamuel.jpeg"
+
 tags = [
     "Developer Relations",
     "DevRel",
@@ -16,16 +18,20 @@ categories = [
     "DevRel"
 ]
 series = ["Developer Advocacy"]
-featuredImage = "media/EkeminiSamuel.jpeg"
 +++
 
 
 ## DevRel in Future Technologies: CUDOS Intercloud
 
+![CoverImage](media/EkeminiSamuel.jpeg)
 
 ### Why I Chose CUDOS Intercloud
 
 [CUDOS Intercloud](https://www.cudos.org/intercloud) is a pioneering solution in AI, blockchain, and decentralized computing. It provides secure Virtual Machines (VMs) and GPU resources, enabling developers to deploy AI models and decentralized applications efficiently. As a DevRel professional, my role would be to bridge the gap between CUDOS and developers by making these tools more accessible.
+
+![CUDOS](/images/media-posts/devrel-article/CUDOS.png)
+```
+
 
 ![CUDOS](media/CUDOS.png)
 
