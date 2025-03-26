@@ -16,7 +16,7 @@ categories = [
     "DevRel"
 ]
 series = ["Developer Advocacy"]
-cover = "/images/media-posts/EkeminiSamuel.jpeg"
+featuredImage = "media-ps/EkeminiSamuel.jpeg"
 +++
 
 
@@ -24,9 +24,10 @@ cover = "/images/media-posts/EkeminiSamuel.jpeg"
 
 
 ### Why I Chose CUDOS Intercloud
-CUDOS Intercloud is a pioneering solution in AI, blockchain, and decentralized computing. It provides secure Virtual Machines (VMs) and GPU resources, enabling developers to deploy AI models and decentralized applications efficiently. As a DevRel professional, my role would be to bridge the gap between CUDOS and developers by making these tools more accessible.
 
-![CUDOS](/images/media-posts/devrel-article/CUDOS.png)
+[CUDOS Intercloud](https://www.cudos.org/intercloud) is a pioneering solution in AI, blockchain, and decentralized computing. It provides secure Virtual Machines (VMs) and GPU resources, enabling developers to deploy AI models and decentralized applications efficiently. As a DevRel professional, my role would be to bridge the gap between CUDOS and developers by making these tools more accessible.
+
+![CUDOS](media/CUDOS.png)
 
 ### Why CUDOS Intercloud Needs Developer Relations
 - **Educating Developers**: Many developers are unfamiliar with decentralized cloud computing and need guidance to get started.
