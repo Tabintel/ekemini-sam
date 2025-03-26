@@ -39,8 +39,6 @@ CUDOS Intercloud is a pioneering solution in AI, blockchain, and decentralized c
 - **Open Source & Partnerships**: Encouraging contributions to the CUDOS ecosystem and forming partnerships with other tech communities.
 - **Speaking Engagements**: Presenting at conferences and events to highlight the benefits of decentralized computing.
 
-{{< tweet user='realekemini' id='1895936910989922673' >}}
-
 
 ## Three-Month Developer Relations Strategy for CUDOS
 ### First 90 Days Plan
