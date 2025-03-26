@@ -3,6 +3,7 @@ authors = ["Ekemini Samuel"]
 title = "DevRel in Future Technologies: CUDOS Intercloud"
 date = "2025-03-25"
 description = "Understanding Developer Relations, its importance, and how it works."
+featuredImage = "/images/media-posts/EkeminiSamuel.jpeg"
 tags = [
     "Developer Relations",
     "DevRel",
@@ -25,6 +26,8 @@ series = ["Developer Advocacy"]
 ### Why I Chose CUDOS Intercloud
 CUDOS Intercloud is a pioneering solution in AI, blockchain, and decentralized computing. It provides secure Virtual Machines (VMs) and GPU resources, enabling developers to deploy AI models and decentralized applications efficiently. As a DevRel professional, my role would be to bridge the gap between CUDOS and developers by making these tools more accessible.
 
+![CUDOS](/images/media-posts/devrel-article/CUDOS.png)
+
 ### Why CUDOS Intercloud Needs Developer Relations
 - **Educating Developers**: Many developers are unfamiliar with decentralized cloud computing and need guidance to get started.
 - **Growing the Ecosystem**: By fostering a strong developer community, CUDOS can drive greater adoption and innovation.
@@ -35,6 +38,9 @@ CUDOS Intercloud is a pioneering solution in AI, blockchain, and decentralized c
 - **Community Building**: Engaging developers through forums, Discord, and webinars to encourage discussions and knowledge sharing.
 - **Open Source & Partnerships**: Encouraging contributions to the CUDOS ecosystem and forming partnerships with other tech communities.
 - **Speaking Engagements**: Presenting at conferences and events to highlight the benefits of decentralized computing.
+
+{{< tweet user="realekemini" id="1895936910989922673" >}}
+
 
 ## Three-Month Developer Relations Strategy for CUDOS
 ### First 90 Days Plan
