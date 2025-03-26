@@ -1,7 +1,7 @@
 +++
 authors = ["Ekemini Samuel"]
 title = "DevRel in Future Technologies: CUDOS Intercloud"
-date = "2024-03-25"
+date = "2025-03-25"
 description = "Understanding Developer Relations, its importance, and how it works."
 tags = [
     "Developer Relations",
